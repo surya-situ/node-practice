@@ -1,0 +1,115 @@
+[
+    {
+        "id": 1,
+        "firstName": "Eleanora",
+        "lastName": "Price",
+        "age": 37,
+        "gender": "female",
+        "email": "umcgourty9@jalbum.net",
+        "phone": "+60 184 408 0824",
+        "username": "umcgourty9",
+        "password": "i0xzpX",
+        "birthDate": "1958-08-11",
+        "image": "https://robohash.org/aliquamcumqueiure.png",
+        "address": {
+            "address": "1649 Timberridge Court",
+            "city": "Fayetteville",
+            "postalCode": "72704",
+            "state": "AR"
+        }
+    },
+    {
+        "id": 2,
+        "firstName": "Marcel",
+        "lastName": "Jones",
+        "age": 39,
+        "gender": "male",
+        "email": "acharlota@liveinternet.ru",
+        "phone": "+967 253 210 0344",
+        "username": "acharlota",
+        "password": "M9lbMdydMN",
+        "birthDate": "1961-09-12",
+        "image": "https://robohash.org/impeditautest.png",
+        "address": {
+            "address": "308 Woodleaf Court",
+            "city": "Glen Burnie",
+            "postalCode": "21061",
+            "state": "MD"
+        }
+    },
+    {
+        "id": 3,
+        "firstName": "Assunta",
+        "lastName": "Rath",
+        "age": 42,
+        "gender": "female",
+        "email": "rhallawellb@dropbox.com",
+        "phone": "+380 962 542 6549",
+        "username": "rhallawellb",
+        "password": "esTkitT1r",
+        "birthDate": "1990-12-14",
+        "image": "https://robohash.org/namquaerataut.png",
+        "address": {
+            "address": "388 East Main Street",
+            "postalCode": "05753",
+            "state": "VT"
+        }
+    },
+    {
+        "id": 4,
+        "firstName": "Trace",
+        "lastName": "Douglas",
+        "age": 26,
+        "gender": "male",
+        "email": "lgribbinc@posterous.com",
+        "phone": "+1 609 937 3468",
+        "username": "lgribbinc",
+        "password": "ftGj8LZTtv9g",
+        "birthDate": "1967-07-23",
+        "image": "https://robohash.org/voluptatemsintnulla.png",
+        "address": {
+            "address": "310 Timrod Road",
+            "city": "Manchester",
+            "postalCode": "06040",
+            "state": "CT"
+        }
+    },
+    {
+        "id": 5,
+        "firstName": "Enoch",
+        "lastName": "Lynch",
+        "age": 21,
+        "gender": "male",
+        "email": "mturleyd@tumblr.com",
+        "phone": "+94 912 100 5118",
+        "username": "mturleyd",
+        "password": "GyLnCB8gNIp",
+        "birthDate": "1979-08-25",
+        "image": "https://robohash.org/quisequienim.png",
+        "address": {
+            "address": "21950 Arnold Center Road",
+            "city": "Carson",
+            "postalCode": "90810",
+            "state": "CA"
+        }
+    },
+    {
+        "id": 6,
+        "firstName": "Jeanne",
+        "lastName": "Halvorson",
+        "age": 26,
+        "gender": "female",
+        "email": "kminchelle@qq.com",
+        "phone": "+86 581 108 7855",
+        "username": "kminchelle",
+        "password": "0lelplR",
+        "birthDate": "1996-02-02",
+        "image": "https://robohash.org/autquiaut.png",
+        "address": {
+            "address": "4 Old Colony Way",
+            "city": "Yarmouth",
+            "postalCode": "02664",
+            "state": "MA"
+        }
+    }
+]
